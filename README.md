@@ -16,7 +16,9 @@ A C++ console application that simulates core university enrollment operations u
 - Standard Template Library (STL): `vector`, `stack`
 
 ## Project Structure
+```plaintext
 UniversityEnrollmentSystem/
+│
 ├── main.cpp
 ├── Student.h
 ├── Student.cpp
@@ -27,6 +29,7 @@ UniversityEnrollmentSystem/
 ├── README.md
 ├── .gitignore
 └── data/
+
 ## How to Run
 1. Clone the repository:
    ```bash
